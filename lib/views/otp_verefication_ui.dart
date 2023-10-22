@@ -121,8 +121,6 @@ class _Otp_Verefication_uiState extends State<Otp_Verefication_ui> {
                                             hintStyle: GoogleFonts.poppins(
                                                 fontSize: 12,
                                                 fontWeight: FontWeight.normal),
-                                            hintText:
-                                                "Entrez votre numéro de mobile svp",
                                             border: InputBorder.none),
                                       ),
                                     ))
