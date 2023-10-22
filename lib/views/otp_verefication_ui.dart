@@ -98,7 +98,6 @@ class _Otp_Verefication_uiState extends State<Otp_Verefication_ui> {
                                           const SizedBox(
                                             width: 10,
                                           )
-                                          //Icon(Icons.keyboard_arrow_down_rounded)
                                         ],
                                       ),
                                     ),
