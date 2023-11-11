@@ -124,7 +124,6 @@ Widget buildTextField() {
             color: Color(0xffA7A7A7)),
         decoration: const InputDecoration(
           hintText: "Recherche une déstination",
-          hintStyle: GoogleFonts.poppins(fontSize: 16),
           suffixIcon: Padding(
             padding: const EdgeInsets.only(left: 10),
             child: Icon(
