@@ -1,4 +1,4 @@
-import 'package:Djibli/views/login_screen_ui.dart';
+import 'package:Djibli/views/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: GoogleFonts.poppinsTextTheme(textTheme),
       ),
-      home: const LoginScreenUi(),
+      home: const homeScreen(),
     );
   }
 }
